@@ -1,0 +1,14 @@
+C:\Users\cozpolat\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.deps.json
+C:\Users\cozpolat\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.runtimeconfig.json
+C:\Users\cozpolat\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.runtimeconfig.dev.json
+C:\Users\cozpolat\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.dll
+C:\Users\cozpolat\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.pdb
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.csprojAssemblyReference.cache
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.csproj.CoreCompileInputs.cache
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorAssemblyInfo.cache
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorAssemblyInfo.cs
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.AssemblyInfoInputs.cache
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.AssemblyInfo.cs
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.dll
+C:\Users\cozpolat\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.pdb
